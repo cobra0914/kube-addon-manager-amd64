@@ -1,1 +1,1 @@
-FROM gcr.io/google-containers/kube-addon-manager:v6.4-beta.2
+FROM k8s.gcr.io/kube-addon-manager:v8.6
